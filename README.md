@@ -11,4 +11,7 @@
     <a href="https://twitter.com/gabrielznegri">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height= 25>
     </a>
+    <a href="https://steamcommunity.com/id/zWhiteFlag">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height= 25>
+    </a>
 </p>
