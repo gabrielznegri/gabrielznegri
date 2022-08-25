@@ -36,6 +36,12 @@
       height="25"
     />
   </a>
+  <a href="https://open.spotify.com/user/34elow2nlhlp1mgaguma2pc4j">
+    <img
+      src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"
+      height="25"
+    />
+  </a>
   <a href="https://steamcommunity.com/id/zWhiteFlag">
     <img
       src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
