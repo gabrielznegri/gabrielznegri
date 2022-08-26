@@ -2,7 +2,7 @@
 <h3 align="center">I'm Gabriel, aka Negri</h3>
 <p align="center">
   Full Stack Developer at CISS S.A, Software Engineering student, currently
-  focusing on studying microservices modeling. Open-minded, robotics and
+  focusing on studying backend architectures. Open-minded, robotics and
   automation lover, constantly looking for new challenges and competitions.
 </p>
 <p align="center">
